@@ -1,2 +1,1 @@
-# Writing-Sample-3
-MISP Installation using Docker
+# MISP Installation on Ubuntu 20.04 using Docker
